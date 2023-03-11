@@ -1,0 +1,58 @@
+[
+  {
+    "id": "01",
+    "name": "joy111",
+    "gender": "male",
+    "contact": "01562",
+    "address": "bogura",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "02",
+    "name": "joy islam",
+    "gender": "male",
+    "contact": "01728428141",
+    "address": "bogura",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "03",
+    "name": "akash roy",
+    "gender": "male",
+    "contact": "01568123123",
+    "address": "dhaka",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "04",
+    "name": "rumi akter",
+    "gender": "female",
+    "contact": "0123289067",
+    "address": "dhaka",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "05",
+    "name": "riya roy",
+    "gender": "female",
+    "contact": "01761216822",
+    "address": "sylhet",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "06",
+    "name": "joy",
+    "gender": "male",
+    "contact": "01562",
+    "address": "bogura",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  },
+  {
+    "id": "07",
+    "name": "nainaiu",
+    "gender": "male",
+    "contact": "01812456789",
+    "address": "rangpur",
+    "photoUrl": "https://media.allure.com/photos/637af89592c10b5db624ed85/master/w_1600%2Cc_limit/quenlin%2520blackwell_2023%2520short%2520hair%2520trends.jpg"
+  }
+]
